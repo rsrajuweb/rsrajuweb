@@ -20,7 +20,7 @@ I'm Rs Raju, a Frontend Developer from Bangladesh. I spend most of the time with
 <br />
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=rsrajuweb8&count_private=true&theme=tokyonight&hide=contribs,prs)
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=rsrajuweb&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br />
 
