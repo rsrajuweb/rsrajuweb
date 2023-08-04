@@ -1,6 +1,6 @@
-## Hi, I'm Rs Raju👋
+## Hi, I'm Md Rihan Sharif Raju👋
 
-I'm Rs Raju, a Frontend Developer from Bangladesh. I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS.
+Hi! I am Md Rihan Sharif Raju .Highly motivated and skilled IT enthusiast seeking a challenging position in the technology industry. Dedicated to continuously expanding knowledge and expertise in various IT domains, with a particular focus on software development.
 
 ### I'm a Frontend Developer!!
 
